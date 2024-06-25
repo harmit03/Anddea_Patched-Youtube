@@ -1,1 +1,75 @@
-[]
+        
+[
+  {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "bold"
+      },
+      {
+        "key": "BottomMargin",
+        "value": "0.0dip"
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for YouTube",
+    "options": [
+      {
+        "key": "InsertPosition",
+        "value": "@string/account_switcher_key"
+      },
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "Premium Controls"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "DarkThemeBackgroundColor",
+        "value": "#FF000000"
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons",
+    "options": [
+      {
+        "key": "ExtendedIcon",
+        "value": "gear"
+      }
+    ]
+  },
+  {
+    "patchName": "Settings for YouTube Music",
+    "options": [
+      {
+        "key": "RVXSettingsMenuName",
+        "value": "Premium Controls"
+      }
+    ]
+  },
+  {
+    "patchName": "Visual preferences icons",
+    "options": [
+      {
+        "key": "ExtendedIcon",
+        "value": "gear"
+      }
+    ]
+  }
+]
+        
