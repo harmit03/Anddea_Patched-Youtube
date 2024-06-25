@@ -31,7 +31,7 @@
     "options": [
       {
         "key": "OutlineIcon",
-        "value": "1"
+        "value": true
       }
     ]
   },
