@@ -19,7 +19,7 @@ excluded-patches = "'Force snackbar theme' 'Custom branding name YouTube' 'Custo
 patches-version = "v2.226.0-dev.18"
 
 [Music]
-enabled = true
+enabled = false
 exclusive-patches = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 cli-source = "inotia00/revanced-cli"
