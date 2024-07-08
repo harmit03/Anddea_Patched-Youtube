@@ -57,6 +57,10 @@
     "patchName": "Settings for YouTube Music",
     "options": [
       {
+        "key": "InsertPosition",
+        "value": "@string/account_switcher_key"
+      },
+      {
         "key": "RVXSettingsMenuName",
         "value": "Premium Controls"
       }
